@@ -14,5 +14,4 @@ This project was developed to solve a real-world data management problem: identi
 * **Environment:** Developed and executed on Android via Termux using the Gemini CLI.
 
 ## Professional Background
-Coming from a background in **English and Loan Documentation**, I prioritize data accuracy and thorough documentation. This project demonstrates my ability to bridge the gap between technical automation and meticulous data integrity.
-
+Coming from a background in **English and Loan Documentation**, I prioritize data accuracy and thorough documentation. 
